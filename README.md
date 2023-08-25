@@ -21,8 +21,8 @@ I would contribute by sharing my programming experiences, helping fellow members
 Looking forward to building myself at amFOSS!!
 
 
-| Task List             | Name of the Task            | Status             |
-|-----------------------------------------------------|--------------------|
+| Task List                                                                   | Name of the Task            | Status             |
+|-----------------------------------------------------------------------------|-----------------------------|--------------------|
 | [task-00](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-00)  | Instal Linux                | Unattempted        |
 | [task-01](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-01)  | Terminal Wizard             | Unattempted        |
 | [task-02](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-02)  | Lessgo Hugo                 | Unattempted        |
