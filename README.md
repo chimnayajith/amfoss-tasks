@@ -10,7 +10,7 @@ I'm Chinmay Ajith, a S1 student pursuing B.Tech in Computer Science. I'm really 
 
 I'm enthusiastic about joining the club and being a part of a community that shares a common interest in programming. I'm hoping to engage in collaborative projects, learn from fellow members, and gain exposure to different programming languages, tools, and techniques. Additionally, I'm excited about the prospect of attending workshops, hackathons, and talks that can help me further develop my programming skills and expand my knowledge in this field. Ultimately, I'm looking forward to both contributing to the club and benefiting from the valuable experiences it has to offer.
 
-### MY 6-MONTH PLAN
+### WHAT'S YOUR PLAN FOR THE NEXT 6 MONTHS?
 
 In the next six months, my main goal is to enhance my programming skills while effectively managing my college studies and time. I plan to dedicate consistent time to coding practice, working on personal projects, and collaborating with peers to strengthen my programming abilities. By effectively balancing my academic commitments and programming pursuits, I aim to make significant progress in my skill set and contribute positively to the programming club's activities.
 
@@ -21,21 +21,21 @@ I would contribute by sharing my programming experiences, helping fellow members
 Looking forward to building myself at amFOSS!!
 
 
-| Task     | Name of the Task            | Status             |
-|----------|-----------------------------|--------------------|
-| Task-00  | Instal Linux                | Unattempted        |
-| Task-01  | Terminal Wizard             | Unattempted        |
-| Task-02  | Lessgo Hugo                 | Unattempted        |
-| Task-03  | Hello, World!               | Unattempted        |
-| Task-04  | Competitive Programming     | Unattempted        |
-| Task-05  | Hypertext Mockup Language   | Unattempted        |
-| Task-06  | Cricket Vault               | Unattempted        |
-| Task-07  | AK-47℃                     | Unattempted        |
-| Task-08  | Poke-Search!                | Unattempted        |
-| Task-09  | GeoQuest                    | Unattempted        |
-| Task-10  | RuskOS                      | Unattempted        |
-| Task-11  | TinkerCAD                   | Unattempted        |
-| Task-12  | Godot                       | Unattempted        |
-| Task-13  | Vim                         | Unattempted        |
-| Task-14  | Bandit                      | Unattempted        |
-| Task-15  | Project Euler               | Unattempted        |
+| Task List             | Name of the Task            | Status             |
+|-----------------------------------------------------|--------------------|
+| [task-00](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-00)  | Instal Linux                | Unattempted        |
+| [task-01](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-01)  | Terminal Wizard             | Unattempted        |
+| [task-02](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-02)  | Lessgo Hugo                 | Unattempted        |
+| [task-03](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-03)  | Hello, World!               | Unattempted        |
+| [task-04](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-04)  | Competitive Programming     | Unattempted        |
+| [task-05](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-05)  | Hypertext Mockup Language   | Unattempted        |
+| [task-06](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-06)  | Cricket Vault               | Unattempted        |
+| [task-07](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-07)  | AK-47℃                     | Unattempted        |
+| [task-08](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-08)  | Poke-Search!                | Unattempted        |
+| [task-09](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-09)  | GeoQuest                    | Unattempted        |
+| [task-10](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-10)  | RuskOS                      | Unattempted        |
+| [task-11](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-11)  | TinkerCAD                   | Unattempted        |
+| [task-12](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-12)  | Godot                       | Unattempted        |
+| [task-13](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-13)  | Vim                         | Unattempted        |
+| [task-14](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-14)  | Bandit                      | Unattempted        |
+| [task-15](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-15)  | Project Euler               | Unattempted        |
