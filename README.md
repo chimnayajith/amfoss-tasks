@@ -23,8 +23,8 @@ Looking forward to building myself at amFOSS!!
 
 | Task List                                                                   | Name of the Task            | Status             |
 |-----------------------------------------------------------------------------|-----------------------------|--------------------|
-| [task-00](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-00)  | Instal Linux                | Unattempted        |
-| [task-01](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-01)  | Terminal Wizard             | Unattempted        |
+| [task-00](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-00)  | Instal Linux                | Completed          |
+| [task-01](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-01)  | Terminal Wizard             | Completed          |
 | [task-02](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-02)  | Lessgo Hugo                 | Unattempted        |
 | [task-03](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-03)  | Hello, World!               | Unattempted        |
 | [task-04](https://github.com/chimnayajith/amfoss-tasks/tree/main//task-04)  | Competitive Programming     | Unattempted        |
