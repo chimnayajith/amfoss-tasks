@@ -28,7 +28,7 @@
 
 ### The Final Spell
 - On cloning into the repo and running the TheOneThatEndsItAll.py shows a message congratulating the user.
-![screenshot](./codes/task-01.png)
+![screenshot](codes/task-01.png)
 
 
 
