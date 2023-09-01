@@ -1,5 +1,5 @@
 // cp-praveshan-2023/ethereal-quest
-
+// COMPLETED
 const readline = require('readline');
 
 //creating interface for input and output

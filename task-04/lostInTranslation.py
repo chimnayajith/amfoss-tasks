@@ -1,3 +1,4 @@
+# COMPLETED
 s = input().strip()
 hello= "hello"
 i = 0

@@ -1,5 +1,5 @@
 #cp-praveshan-2023/gridlock-showdown
-
+# COMPLETED
 t = int(input()) #input test cases
 
 sum_x , sum_y , sum_z = 0,0,0

@@ -1,0 +1,68 @@
+.custom-button {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    margin-bottom: 60px;
+    background-color: #2BDAE1;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.custom-text {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size:48px;
+    position: absolute;
+    left:48%;
+    top:63%;
+    color: white;
+}
+.svg-icon {
+    width: 50px;
+    height: 50px;
+    fill: black;
+    margin-left: 10px;
+}
+
+.text-container {
+    text-align: center;
+    margin-bottom: 140px;
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+    transform: translateX(-50%);
+}
+.navbar {
+    position: fixed; 
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(0,0,0, 0.5);  /* #0B0B21 converted to rgb => 11, 11, 33*/
+    padding: 10px 20px;
+    width: 100%;
+}
+
+.logo img {
+    padding-left: 20px;
+    width: 40px;
+}
+
+.icons {
+    padding-right:20px;
+    display: flex;
+}
+
+.icon-link {
+    margin: 0 10px;
+}
+
+.icon-link img {
+    padding-right: 5px;
+    width: 30px;
+}
