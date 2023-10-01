@@ -1,0 +1,68 @@
+body,
+h1,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("./assets/sed.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-width: 250px;
+    height: 350px;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-container {
+    text-align: center;
+    padding: 20px;
+    color: #000;
+    font-family: Arial, sans-serif;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#city-name {
+    margin-right: 10px;
+    font-size: 30px;
+}
+#condition {
+    font-size:25px
+}
+
+#edit-icon {
+    cursor: pointer;
+    width: 20px;
+}
+
+.big-temp {
+    font-size: 48px;
+    display: block;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 20px; 
+    left: 20px;
+}
+
+.input-visible #city-name {
+    display: none;
+}
+
+.input-visible #edit-icon {
+    display: none;
+}
+
+.input-visible #search-icon {
+    display: inline;
+}
